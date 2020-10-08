@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369378612225",
+    "firebase_url": "https://flutter-chat-f983b.firebaseio.com",
+    "project_id": "flutter-chat-f983b",
+    "storage_bucket": "flutter-chat-f983b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369378612225:android:84ea7b3208afa4d4aedc00",
+        "android_client_info": {
+          "package_name": "com.maged.example.hihellochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369378612225-6br9g0gb386ts2vq0fl3rc1lkj9h3n7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqXE6TLJCrM6EpL1MtVkFsp968EG33kS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369378612225-6br9g0gb386ts2vq0fl3rc1lkj9h3n7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
